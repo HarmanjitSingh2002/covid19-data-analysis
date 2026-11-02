@@ -37,3 +37,26 @@ Charts, correlation values, and monthly summaries are generated when the noteboo
 
 ## Limitations
 All values are simulated. This project is for learning data analysis techniques only and cannot support conclusions about real-world COVID-19 trends or public-health decisions.
+
+## Data Visualizations
+
+### 1. Daily COVID-19 Cases
+![Daily COVID-19 Cases](./daily_covid_cases.png)
+
+### 2. 7-Day Rolling Average
+![7-Day Rolling Average](./covid_7day_rolling_average.png)
+
+### 3. Daily COVID-19 Deaths
+![Daily COVID-19 Deaths](./daily_covid_deaths.png)
+
+### 4. COVID-19 Hospitalizations
+![COVID-19 Hospitalizations](./covid_hospitalizations.png)
+
+### 5. Vaccination Trend
+![COVID-19 Vaccination Trend](./covid_vaccination_trend.png)
+
+### 6. Monthly COVID-19 Summary
+![Monthly COVID-19 Summary](./monthly_covid_summary.png)
+
+### 7. Cases and Deaths Correlation
+![Cases and Deaths Correlation](./covid_cases_deaths_correlation.png)
